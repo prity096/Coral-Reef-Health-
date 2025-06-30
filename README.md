@@ -1,4 +1,4 @@
-# Coral-Reef-Health-
+# Coral-Reef-Health-Assesment
  Image Processing 
  Coral reefs face critical threats from climate change
  requiring scalable monitoring solutions. We developed an auto
